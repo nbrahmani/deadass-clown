@@ -6,4 +6,8 @@
 
 ###### How to run:
 
-timeit "insert command"
+* timeit "insert command"
+
+###### To Do:
+
+* Make logs easy to read.
