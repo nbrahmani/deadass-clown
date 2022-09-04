@@ -10,5 +10,4 @@ To do:
 * Writable but undeletable files
 * Harry Potter text generation
 * cursor control on commands
-
-
+* Inktober with Robotic Arm
