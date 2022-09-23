@@ -1,6 +1,11 @@
 ### Tools, Tweaks, random stuff I want to try
 
-To do:
+Dead:
+
+* timeit- to time how long a command runs
+* latex_compilation- commands to compile latex files on system
+
+Should die:
 
 * Python scraping tool to collect PhD notifications from Twitter
 * Multiple copy, paste tool
