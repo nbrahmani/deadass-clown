@@ -127,6 +127,19 @@ nnoremap <space> za
 
 " }}}
 
+" VIMSCRIPT -------------------------------------------------------------- {{{
+
+" This will enable code folding.
+" Use the marker method of folding.
+augroup filetype_vim
+    autocmd!
+    autocmd FileType vim setlocal foldmethod=marker
+augroup END
+
+" More Vimscripts code goes here.
+
+" }}}
+
 " Commented out ----------------------------------------------------" {{{
 
 " Highlight cursor line underneath the cursor horizontally.
