@@ -35,3 +35,6 @@
 * %s/old/new/gc- replace global with confirmations
 
 * *cgn .- find and replace words*
+
+* :AirLineTheme <theme>
+* :colo <color>

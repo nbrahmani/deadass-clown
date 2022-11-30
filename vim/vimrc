@@ -91,14 +91,15 @@ Plug 'davidhalter/jedi-vim'
 " NerdTree for file exploration
 Plug 'preservim/nerdtree'
 " For Git control
-" Use Credential cache to avoid error while pushing
 Plug 'tpope/vim-fugitive'
 " Comments
 Plug 'tpope/vim-commentary'
 " Virtual env support
 Plug 'jmcantrell/vim-virtualenv'
 " Status Line
-Plug 'powerline/powerline'
+Plug 'vim-airline/vim-airline'
+" Themes for Airline
+Plug 'vim-airline/vim-airline-themes'
 
 " Color Schemes
 " Archery
