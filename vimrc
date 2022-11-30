@@ -91,6 +91,7 @@ Plug 'davidhalter/jedi-vim'
 " NerdTree for file exploration
 Plug 'preservim/nerdtree'
 " For Git control
+" Use Credential cache to avoid error while pushing
 Plug 'tpope/vim-fugitive'
 " Comments
 Plug 'tpope/vim-commentary'
