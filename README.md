@@ -8,10 +8,10 @@ Dead:
 * bashrc- bash config file
 * gitcred- shortcut to copy git cred to clipboard
 * rasp_config.md- config files for raspberry bullseye setup
+* Unscrambler- tool to unscramble given letters @ https://github.com/nbrahmani/unscramble-dc
 
 Gotta kill:
 
-* Unscrambler- tool to unscramble given letters
 * Crossword solver
 * Python scraping tool to collect PhD notifications from Twitter
 * Multiple copy, paste tool
