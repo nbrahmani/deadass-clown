@@ -38,3 +38,4 @@
 
 * :AirLineTheme <theme>
 * :colo <color>
+* :retab Change spaces to tabs while maintaining alignment
